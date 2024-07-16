@@ -3,7 +3,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\ga
 -novid -high -nojoy +exec autoexec.cfg
 
 AONDE COMPRAR LICENÇA MIDNIGHT
-https://brasilcsgo.com/shop/assinaturas/csgo-2
+https://brasilcsgo.com/
 
 MENU KEY
 NUM 0
