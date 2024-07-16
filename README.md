@@ -3,6 +3,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\ga
 -novid -high -nojoy +exec autoexec.cfg
 
 MENU KEY
+
 NUM 0
 
 HVH
