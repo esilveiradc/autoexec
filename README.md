@@ -6,7 +6,6 @@ AONDE COMPRAR LICENÇA MIDNIGHT
 https://brasilcsgo.com/shop/assinaturas/csgo-2
 
 MENU KEY
-
 NUM 0
 
 HVH
