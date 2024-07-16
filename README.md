@@ -2,16 +2,17 @@ C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\ga
 
 -novid -high -nojoy +exec autoexec.cfg
 
-AONDE COMPRAR LICENÇA MIDNIGHT
+AONDE COMPRAR LICENÇA MIDNIGHT/CONTAS
 https://brasilcsgo.com/
+https://deadbear.gg/
 
 MENU KEY
 NUM 0
 
-HVH
+CFG MIDNIGHT HVH
 https://midnight.im/cloud/config/share?key=1H3aFDm2fNHLvSHO
 
-PREMIER
+CFG MIDNIGHT PREMIER
 https://midnight.im/cloud/config/share?key=ZAovyGIGZEZaZDty
 
 FREE REPORT BOT
