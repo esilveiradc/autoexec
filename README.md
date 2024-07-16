@@ -1,0 +1,1 @@
+-novid -high -nojoy +exec autoexec.cfg
