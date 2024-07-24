@@ -40,6 +40,3 @@ https://mvploader.pro/
 https://github.com/SecHex/SecHex-Spoofy
 
 https://github.com/gibbed/SteamAchievementManager/releases/tag/7.0.25
-
-FORNECEDOR CONTAS 1K HORAS A 2 REAIS
-https://ggmax.com.br/perfil/EduardolcS_
